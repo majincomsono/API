@@ -1,0 +1,19 @@
+body {
+    background-color: #f7f7f7;
+}
+
+h1 {
+    color: #007bff;
+}
+
+#feriados-lista {
+    border-top: 2px solid #007bff;
+    padding-top: 20px;
+}
+
+.feriado-item {
+    padding: 10px;
+    background-color: #e9ecef;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
